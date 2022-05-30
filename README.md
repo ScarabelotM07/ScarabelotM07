@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ScarabelotM07
+- 👋 Olá, eu sou @ScarabelotM07
 - 👀 Estou interessado em estudar e entrar em uma boa faculdade
 - 🌱 Eu estou aprendendo a programar
 - 💞️ Eu gosto de desenhar, escutar música e tocar guitarra
