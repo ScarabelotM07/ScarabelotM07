@@ -1,8 +1,6 @@
-- Olá, eu sou @ScarabelotM07
-- Estou interessado em estudar e entrar em uma boa faculdade
-- Eu estou aprendendo a programar
-- Eu gosto de desenhar, escutar música e tocar guitarra
-- Como me encontrar @axbatzx
+- oi, eu sou a mia
+- eu gosto de livros,musica,teatro e desenhos
+- eu sou so uma garota que gosta de musicas goticas e tyler de creator
 
 <!---
 ScarabelotM07/ScarabelotM07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
