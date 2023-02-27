@@ -1,5 +1,5 @@
 - oi, eu sou a mia
-- eu gosto de livros,musica,teatro e desenhos
+- eu gosto de livros, musica, teatro e desenhos
 - eu sou so uma garota que gosta de musicas goticas e tyler de creator
 
 <!---
